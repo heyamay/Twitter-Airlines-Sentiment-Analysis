@@ -28,7 +28,7 @@ This project analyzes Twitter data to determine the sentiment of tweets related 
 - **WordCloud**: Library for visualizing word frequency in the text data.
 
 ## Dataset
-The dataset used in this project is the [Twitter Airline Sentiment dataset](https://www.kaggle.com/c/twitter-airline-sentiment](https://github.com/heyamay/Twitter-Airlines-Sentiment-Analysis/blob/main/Tweets.csv). It contains tweets related to different airlines, along with their corresponding sentiment labels (positive, neutral, or negative).
+The dataset used in this project is the [Twitter Airline Sentiment dataset](https://github.com/heyamay/Twitter-Airlines-Sentiment-Analysis/blob/main/Tweets.csv). It contains tweets related to different airlines, along with their corresponding sentiment labels (positive, neutral, or negative).
 
 ## Installation
 To run this project, you need to have Python installed along with the required libraries. You can set up the environment using `pip`. Run the following command:
