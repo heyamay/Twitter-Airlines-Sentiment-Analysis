@@ -3,8 +3,8 @@
 ## Overview
 This project analyzes Twitter data to determine the sentiment of tweets related to airlines. The primary goal is to classify tweets as positive, negative, or neutral based on the sentiments expressed in the text. This analysis provides valuable insights into customer opinions and experiences, which can help airlines improve their services and customer relations.
 
-## Author
- 🍀 **Project done by Amay Jaiswal**  
+ 🍀 ## Author
+**Project done by Amay Jaiswal**  
 **Role:** Data Analyst / Data Scientist  
 [LinkedIn Profile](https://www.linkedin.com/in/heyamay/)
 
