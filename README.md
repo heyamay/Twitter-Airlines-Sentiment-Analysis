@@ -3,6 +3,11 @@
 ## Overview
 This project analyzes Twitter data to determine the sentiment of tweets related to airlines. The primary goal is to classify tweets as positive, negative, or neutral based on the sentiments expressed in the text. This analysis provides valuable insights into customer opinions and experiences, which can help airlines improve their services and customer relations.
 
+## Author
+**Project done by Amay Jaiswal**  
+**Role:** Data Analyst / Data Scientist  
+[LinkedIn Profile](https://www.linkedin.com/in/heyamay/)
+
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
@@ -23,7 +28,7 @@ This project analyzes Twitter data to determine the sentiment of tweets related 
 - **WordCloud**: Library for visualizing word frequency in the text data.
 
 ## Dataset
-The dataset used in this project is the [Twitter Airline Sentiment dataset](https://www.kaggle.com/c/twitter-airline-sentiment). It contains tweets related to different airlines, along with their corresponding sentiment labels (positive, neutral, or negative).
+The dataset used in this project is the [Twitter Airline Sentiment dataset](https://www.kaggle.com/c/twitter-airline-sentiment](https://github.com/heyamay/Twitter-Airlines-Sentiment-Analysis/blob/main/Tweets.csv). It contains tweets related to different airlines, along with their corresponding sentiment labels (positive, neutral, or negative).
 
 ## Installation
 To run this project, you need to have Python installed along with the required libraries. You can set up the environment using `pip`. Run the following command:
